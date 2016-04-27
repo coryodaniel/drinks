@@ -28,6 +28,18 @@ rake db:seed;
   * JSONAPI
     * Relationships
     * include param
+  * Friendly URL parsing and custom
   * RecipeIngredient
     * JSONAPI
       * Filters
+* Week 4: Users
+  * JWT
+  * Securing JSONAPI resource access
+
+
+
+
+## More Reading
+* [JSONAPI Spec](http://jsonapi.org/format/)
+* [JSONAPI Resources](https://github.com/cerebris/jsonapi-resources#resources)
+* [Munson: Ruby Client Implementation](https://github.com/stacksocial/munson)
