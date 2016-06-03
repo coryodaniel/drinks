@@ -64,3 +64,5 @@ Ingredient.create name: "Laphroaig 10 Year", category: scotch
 # 4 ice cubes
 # 2 dashes Angostura bitters
 # 1 Maraschino cherry
+
+### Gorilla Fart
