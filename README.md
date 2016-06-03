@@ -24,17 +24,27 @@ rake db:seed;
 * Week 2: Category
   * ancestry
   * materialized path pattern
-* Week 3: Recipe
   * JSONAPI
     * Relationships
-    * include param
-  * Friendly URL parsing and custom
-  * RecipeIngredient
-    * JSONAPI
-      * Filters
+      * Explore ingredients relationship
+        * Link to related category
+        * Link to ingredient-category relationship
+    * Filters
+    * Include
+    * Create / POST
+* Week 3: Recipe
+  * Friendly URL parsing
+  * Recipes
+    * RecipeIngredient
+      * Ingredient or Category
+  * Attributes API
 * Week 4: Users
   * JWT
   * Securing JSONAPI resource access
+* Week 5: React
+  * Sign Up
+  * Log In
+  * Add Recipe
 
 
 

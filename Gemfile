@@ -11,7 +11,7 @@ gem 'puma'
 gem 'figaro'
 gem 'jsonapi-resources', github: 'cerebris/jsonapi-resources'
 
-# gem 'ancestry'
+gem 'ancestry'
 # gem 'versionist'
 
 group :development, :test do
